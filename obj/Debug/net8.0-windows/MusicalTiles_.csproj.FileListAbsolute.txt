@@ -1,0 +1,17 @@
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\MusicalTiles_.GameForm.resources
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\MusicalTiles_.MainMenuForm.resources
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\MusicalTiles_.csproj.GenerateResource.cache
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\MusicalTiles_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\MusicalTiles_.AssemblyInfoInputs.cache
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\MusicalTiles_.AssemblyInfo.cs
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\MusicalTiles_.csproj.CoreCompileInputs.cache
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\bin\Debug\net8.0-windows\MusicalTiles_.exe
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\bin\Debug\net8.0-windows\MusicalTiles_.deps.json
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\bin\Debug\net8.0-windows\MusicalTiles_.runtimeconfig.json
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\bin\Debug\net8.0-windows\MusicalTiles_.dll
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\bin\Debug\net8.0-windows\MusicalTiles_.pdb
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\MusicalTiles_.dll
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\refint\MusicalTiles_.dll
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\MusicalTiles_.pdb
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\MusicalTiles_.genruntimeconfig.cache
+C:\Users\FREE\source\repos\MusicalTiles_\MusicalTiles_\obj\Debug\net8.0-windows\ref\MusicalTiles_.dll
